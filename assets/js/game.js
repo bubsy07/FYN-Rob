@@ -267,7 +267,7 @@ class remember {
             card_A.classList.remove('visible');
             card_B.classList.remove('visible');
             this.busy = false;
-        }, 1750);
+        }, 6000);
     }
      
     //Plays Melody
